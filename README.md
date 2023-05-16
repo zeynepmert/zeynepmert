@@ -1,7 +1,7 @@
 ### I'm a student at Yildiz Technical University 👩‍🎓
 
- 🍂 I was interested in HTML, CSS, and JavaScript.
- 🌱 Currently, I am learning Python, Data Literacy, and Machine Learning.
- 🎯 My next goal is deep learning.
- 📫 How to reach me: [z.mertzeynep@gmail.com](mailto:z.mertzeynep@gmail.com) & [LinkedIn ](www.linkedin.com/in/zeynep-mert-38139a1b6)
+ - 🍂 I was interested in HTML, CSS, and JavaScript.
+ - 🌱 Currently, I am learning Python, Data Literacy, and Machine Learning.
+ - 🎯 My next goal is deep learning.
+ - 📫 How to reach me: [z.mertzeynep@gmail.com](mailto:z.mertzeynep@gmail.com) & [LinkedIn ](www.linkedin.com/in/zeynep-mert-38139a1b6)
 
