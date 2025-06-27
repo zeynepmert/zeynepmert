@@ -17,5 +17,5 @@
   
 ## 📫 İletişim / Contact
 
-- [LinkedIn](https://linkedin.com/in/zeynepmert)  
-- [Medium](https://medium.com/@zeynepmert)
+- [LinkedIn](https://www.linkedin.com/in/zeynep-mert-38139a1b6/)  
+- [Medium](https://medium.com/@zmertzeynep)
