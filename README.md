@@ -1,4 +1,4 @@
-### I'm a student at Yildiz Technical University 👩‍🎓
+### 🎓 Bachelor’s Degree in Mathematical Engineering — Yıldız Technical University
 
  - 🍂 I was interested in HTML, CSS, and JavaScript.
  - 🌱 Currently, I am learning Python, Data Literacy, and Machine Learning, Large Language Model & NLP.
